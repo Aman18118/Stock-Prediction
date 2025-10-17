@@ -100,7 +100,7 @@ pip package manager
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quantedge-ai.git
+git clone https://github.com/Aman18118/quantedge-ai.git
 cd quantedge-ai
 
 # Create virtual environment
